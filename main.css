@@ -1,0 +1,65 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: blue;
+}
+
+#sports {
+    background-color: lightyellow;
+}
+
+#economy {
+    background-color: lightgray;
+}
+
+#entertainment {
+    background-color: lightcoral;
+}
+
+#technology {
+    background-color: lightgreen;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+h2 {
+    color: darkblue;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+}
+
+article header {
+    font-size: 0.9em;
+    color: gray;
+}
+
+article h3 {
+    font-size: 1.2em;
+    color: darkred;
+}
+
+article p {
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+article a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+article a:hover {
+    text-decoration: underline;
+}
